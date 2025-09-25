@@ -97,7 +97,8 @@ When I’m not coding, I’m probably learning about **AI**, automating my home,
 ---
 
 ### 📈 My GitHub Journey
-![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanGit91&show_icons=true&theme=radical&hide_border=true&count_private=true)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=IvanGit91&theme=radical&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGit91&layout=compact&theme=radical&hide_border=true)
 
 ---
